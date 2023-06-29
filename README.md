@@ -1,2 +1,4 @@
-# golang-notes
-my notes learning go lang
+# Go Lang notes and examples for myself and others.
+
+## Table of Contents
+
